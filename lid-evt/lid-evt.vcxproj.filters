@@ -18,8 +18,5 @@
     <ClCompile Include="lid-evt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="laplock.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
